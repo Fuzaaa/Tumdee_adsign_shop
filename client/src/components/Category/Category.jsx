@@ -23,7 +23,7 @@ function Category() {
   return (
     <div > 
     <div className="category-header">
-      <h2>BROWSE BY CATEGORY</h2>
+      <h2>BROWSE BY CATEGORY.</h2>
     </div>
       
     {products.length > 0 ? ( <ul className='product-ul'>
