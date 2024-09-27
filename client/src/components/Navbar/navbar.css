@@ -64,6 +64,6 @@
 }
 
 .navbar a:hover,.navbar span:hover {
-  textdecoration: dash:
+  textdecoration: dash;
   transition: .2s;
 }
